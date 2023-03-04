@@ -1,3 +1,5 @@
-<category id="category_custom" name="MyBlocks" colour="100">
-<block type="blocktype"></block>
-</category>
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="my">
+    <block type="helloworld2"></block>
+  </category>
+</xml>
