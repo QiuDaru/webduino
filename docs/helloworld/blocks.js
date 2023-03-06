@@ -1,7 +1,7 @@
-Blockly.Blocks['helloworld2'] = {
+Blockly.Blocks['try'] = {
   init: function() {
     this.appendDummyInput()
-        .appendField("helloworld2");
+        .appendField("print");
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(230);

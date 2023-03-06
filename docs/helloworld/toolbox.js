@@ -5,5 +5,5 @@ if (typeof toolbox_custom == 'undefined')
 
 toolbox_custom.push(''
 +'<category id="category_custom" name="MyBlocks" colour="100">'
-+'<block type="helloworld2"></block>'
++' <block type="try"></block>'
 +'</category>');
