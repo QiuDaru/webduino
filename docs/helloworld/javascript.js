@@ -1,6 +1,5 @@
 Blockly.Arduino['try'] = function(block) {
   // TODO: Assemble Arduino into code variable.
-  alert('HI')
-  var code = '...;\n';
+  var code = 'alert('HI');\n';
   return code;
 }
